@@ -1,2 +1,0 @@
-# phyton-code
-ADS project
